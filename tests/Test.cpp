@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "Operations.hpp"
+#include "quad/Operations.hpp"
 using namespace quad;
 
 const double EPS = 1e-10;
