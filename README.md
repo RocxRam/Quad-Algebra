@@ -151,7 +151,7 @@ Generated using the custom `Complex<T>` implementation.
 
 ### Split-Complex Geometry
 
-![Split Geometry](images/split_geometry.png)
+![Split Geometry](images/Split_Complex_Visualizer.png)
 
 Generated using the custom `Split_Complex<T>` implementation.
 Contours of the split-complex norm
